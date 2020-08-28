@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T14:23:58.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="13.6.5" etag="WCKl0RRu1_TZN97CMJxC" type="github"><diagram id="Kg9v2PKGdZfVGiz0Gp11">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-28T14:30:24.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="mDbWiIkwp7-uzrHe-4Ao" version="13.6.5" type="github">
+  <diagram id="Kg9v2PKGdZfVGiz0Gp11" name="第 1 页">
+    <mxGraphModel dx="742" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LsitBjnYXSRyM2MQ24yq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LsitBjnYXSRyM2MQ24yq-2" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 14px&quot;&gt;Java Data Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="600" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LsitBjnYXSRyM2MQ24yq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="830" width="157" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LsitBjnYXSRyM2MQ24yq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="830" width="157" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LsitBjnYXSRyM2MQ24yq-5" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 14px&quot;&gt;Database&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="216.5" y="810" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LsitBjnYXSRyM2MQ24yq-6" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 14px&quot;&gt;Python Interpolator Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360.25" y="810" width="236.5" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
