@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T10:24:10.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="13.6.5" etag="IhGkAwRJW86FBMW56sso" type="github"><diagram id="HQnREK34H-d9so5Twpd-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-29T10:42:19.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="WZDblqig4Q709liSbccT" version="13.6.5" type="github">
+  <diagram id="HQnREK34H-d9so5Twpd-" name="第 1 页">
+    <mxGraphModel dx="890" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-1" target="t6z-Ru4cVA2ObkCtdwVK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-1" value="从数据提供接口获取Json格式风场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-2" target="t6z-Ru4cVA2ObkCtdwVK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-2" value="构建风场网格" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-4" target="t6z-Ru4cVA2ObkCtdwVK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-4" value="从网格中随机获取一定数量的粒子(格点)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-6" target="t6z-Ru4cVA2ObkCtdwVK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-6" target="t6z-Ru4cVA2ObkCtdwVK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-6" value="粒子是否在网格格点上" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-8" target="t6z-Ru4cVA2ObkCtdwVK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-8" value="直接从风场网格中取出对应的风速向量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="328" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-11" target="t6z-Ru4cVA2ObkCtdwVK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-11" value="根据风速向量计算粒子在下一周期的位置" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-13" target="t6z-Ru4cVA2ObkCtdwVK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-13" value="&lt;div&gt;根据粒子在网格中的位置计算粒子的经纬度坐标&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-15" target="t6z-Ru4cVA2ObkCtdwVK-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="600" />
+              <mxPoint x="740" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-15" value="Cesium根据粒子本周期的经纬度与下个周期的经纬度画出风场线" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6z-Ru4cVA2ObkCtdwVK-17" target="t6z-Ru4cVA2ObkCtdwVK-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="360" />
+              <mxPoint x="570" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6z-Ru4cVA2ObkCtdwVK-17" value="使用插值算法计算出近似的风场向量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
