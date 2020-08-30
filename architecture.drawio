@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T05:52:23.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="WeW_MeB9d7rhWZi1R1sH" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T05:53:36.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="bknRkdky77fGmiYYCZXU" version="13.6.5" type="github">
   <diagram id="Kg9v2PKGdZfVGiz0Gp11" name="第 1 页">
     <mxGraphModel dx="890" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-69" value="环境数据可视化系统基础设施层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="354.0037961335677" y="674.9992676973148" width="178" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-1" value="计算机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="640" width="122" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-2" value="网络设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="640" width="122" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
