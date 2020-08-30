@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T05:32:09.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="bc5CmaCNy5yL9sPAZDr6" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T05:33:13.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="4Gh8lnuES-QdN3K9lE4V" version="13.6.5" type="github">
   <diagram id="Kg9v2PKGdZfVGiz0Gp11" name="第 1 页">
     <mxGraphModel dx="890" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="159" y="250" width="570" height="61" as="geometry" />
+          <mxGeometry x="159" y="312" width="570" height="61" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-52" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
           <mxGeometry width="570" height="61" as="geometry" />
@@ -98,15 +98,15 @@
           <mxGeometry x="11" y="6.995129870129745" width="111.41" height="35.45" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-54" value="量测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
-          <mxGeometry x="133" y="6.997402597402356" width="64" height="35.45" as="geometry" />
+          <mxGeometry x="132" y="6.997402597402356" width="64" height="35.45" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-55" value="地点、经纬度搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
           <mxGeometry x="205" y="7" width="134" height="35.45" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-56" value="风场渲染模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-56" value="数据渲染模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
           <mxGeometry x="350" y="6.995129870129745" width="94.41333333333334" height="35.45454545454545" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-57" value="涂层数据切换模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-57" value="图层数据切换模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a1iLULeqpFFVg6pSqvtH-67">
           <mxGeometry x="455" y="7" width="106" height="35.45" as="geometry" />
         </mxCell>
       </root>
