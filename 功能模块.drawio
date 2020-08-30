@@ -1,1 +1,155 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T09:18:54.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="e64wCfPWL1pwKckZcx2P" version="13.6.5" type="device"><diagram id="jg_h6tzCnuMt0DRJ_AM6" name="第 1 页">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-30T09:21:20.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="ywjxYxoQ3qFxKv0GWCui" version="13.6.5" type="github">
+  <diagram id="jg_h6tzCnuMt0DRJ_AM6" name="第 1 页">
+    <mxGraphModel dx="890" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CprV_7sndHHZQIMV80uk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="273" />
+              <mxPoint x="200" y="273" />
+            </Array>
+            <mxPoint x="360" y="257" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="273" />
+              <mxPoint x="545" y="273" />
+            </Array>
+            <mxPoint x="360" y="257" as="sourcePoint" />
+            <mxPoint x="545" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-1" value="数据环境可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="224" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-6" target="CprV_7sndHHZQIMV80uk-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="55" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-6" target="CprV_7sndHHZQIMV80uk-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="113" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-6" target="CprV_7sndHHZQIMV80uk-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="171" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-6" target="CprV_7sndHHZQIMV80uk-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="229" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-6" target="CprV_7sndHHZQIMV80uk-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="287" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-6" target="CprV_7sndHHZQIMV80uk-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="345" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-6" value="Web数字地球构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="287" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-7" target="CprV_7sndHHZQIMV80uk-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="330" />
+              <mxPoint x="409" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-7" target="CprV_7sndHHZQIMV80uk-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="330" />
+              <mxPoint x="478" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-7" target="CprV_7sndHHZQIMV80uk-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-7" target="CprV_7sndHHZQIMV80uk-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="330" />
+              <mxPoint x="611" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="CprV_7sndHHZQIMV80uk-7" target="CprV_7sndHHZQIMV80uk-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="330" />
+              <mxPoint x="674" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-7" value="矢量场数据动态可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="477" y="287" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-10" value="基础GIS功能" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="35" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-11" value="基础地理信息数据加载管理功能" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="93" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-12" value="常见地理数据支持" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="325" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-13" value="地图量测功能&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%9F%BA%E7%A1%80%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bhorizontal%3D1%3BverticalAlign%3Dmiddle%3BspacingTop%3D0%3BspacingLeft%3D8%3BspacingRight%3D8%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20y%3D%22370%22%20width%3D%2240%22%20height%3D%22210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="267" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-14" value="地理位置查询定位功能" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="151" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-15" value="系统注册与授权功能" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="209" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-23" value="海洋环境要素的可视化" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="389" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-24" value="专题信息数据管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="455" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-25" value="专题信息数据解析转换" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="522" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-26" value="专题信息数据的可视化渲染" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="588" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CprV_7sndHHZQIMV80uk-27" value="专题数据信息的时空查询" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;spacingTop=0;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="654" y="340" width="40" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
