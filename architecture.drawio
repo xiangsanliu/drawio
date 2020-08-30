@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T05:12:55.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="FewVyIvv0xLwxbuq2ifZ" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T05:13:47.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="Y_J_LVyCRNILKhOzjPk4" version="13.6.5" type="github">
   <diagram id="Kg9v2PKGdZfVGiz0Gp11" name="第 1 页">
     <mxGraphModel dx="890" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-36" value="数据获取插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="173" y="402.0018181818182" width="97" height="38.18181818181818" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-37" value="数据上传插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="402.0018181818182" width="97" height="38.18181818181818" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-38" value="功能插件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="443.99909090909085" width="58" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
