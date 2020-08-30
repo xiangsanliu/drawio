@@ -1,44 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T05:53:52.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="L-oLe7K6kkyOAX4SZiA7" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T06:01:30.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="lMPxEF7yZtnDqkVYayeA" version="13.6.5" type="github">
   <diagram id="Kg9v2PKGdZfVGiz0Gp11" name="第 1 页">
     <mxGraphModel dx="890" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-14" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="159" y="499" width="569" height="85.5" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-40" value="" style="group" parent="a1iLULeqpFFVg6pSqvtH-14" vertex="1" connectable="0">
-          <mxGeometry width="570" height="85.02847843775427" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-40" vertex="1">
-          <mxGeometry width="570" height="84.55955725660402" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-39" value="环境数据可视化系统数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-40" vertex="1">
-          <mxGeometry x="207.3637961335677" y="68.11656698643348" width="154" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="178.5" y="505.5" width="529.5" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-7" value="&lt;br&gt;反演风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
-          <mxGeometry width="87.5" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-8" value="&lt;br&gt;模式风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
-          <mxGeometry x="108.5" width="89" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-9" value="&lt;br&gt;再分析风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
-          <mxGeometry x="211.5" width="100" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-11" value="&lt;br&gt;融合风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
-          <mxGeometry x="320.5" width="100" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-12" value="&lt;br&gt;浮标数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
-          <mxGeometry x="429.5" width="100" height="62.5" as="geometry" />
-        </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-51" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="161" y="383" width="570" height="88" as="geometry" />
+          <mxGeometry x="164" y="373" width="570" height="88" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-51" vertex="1">
-          <mxGeometry width="570" height="88" as="geometry" />
+          <mxGeometry x="-4" width="570" height="88" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-23" value="" style="group" parent="a1iLULeqpFFVg6pSqvtH-51" vertex="1" connectable="0">
           <mxGeometry x="237" y="4" width="324" height="65" as="geometry" />
@@ -76,44 +46,95 @@
         <mxCell id="a1iLULeqpFFVg6pSqvtH-38" value="功能插件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-41" vertex="1">
           <mxGeometry x="87.60000000000001" y="48.28487012987008" width="58" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-50" value="环境数据可视化系统支撑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-51" vertex="1">
-          <mxGeometry x="190.25379613356768" y="68.99926769731485" width="154" height="18" as="geometry" />
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-50" value="&lt;b&gt;环境数据可视化系统支撑层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-51" vertex="1">
+          <mxGeometry x="208.00379613356768" y="68.99926769731485" width="154" height="18" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-67" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="160" y="285" width="570" height="61" as="geometry" />
+          <mxGeometry x="160" y="290" width="570" height="61" as="geometry" />
         </mxCell>
         <mxCell id="a1iLULeqpFFVg6pSqvtH-52" value="" style="whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
           <mxGeometry width="570" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-58" value="环境数据可视化系统应用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-58" value="&lt;b&gt;环境数据可视化系统应用层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
           <mxGeometry x="207.50379613356768" y="42.99926769731485" width="154" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-53" value="基础GIS功能模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
-          <mxGeometry x="11" y="6.995129870129745" width="111.41" height="35.45" as="geometry" />
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-7" value="" style="group" vertex="1" connectable="0" parent="a1iLULeqpFFVg6pSqvtH-67">
+          <mxGeometry x="11" y="6.995129870129745" width="550" height="35.45487012987026" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-54" value="量测模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
-          <mxGeometry x="132" y="6.997402597402356" width="64" height="35.45" as="geometry" />
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-53" value="基础GIS功能模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="K7p-2cNAyb-a2kixNtFu-7" vertex="1">
+          <mxGeometry width="111.41" height="35.45" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-55" value="地点、经纬度搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
-          <mxGeometry x="205" y="7" width="134" height="35.45" as="geometry" />
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-54" value="量测模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="K7p-2cNAyb-a2kixNtFu-7" vertex="1">
+          <mxGeometry x="121" y="0.002272727272611519" width="64" height="35.45" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-56" value="数据渲染模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
-          <mxGeometry x="350" y="6.995129870129745" width="94.41333333333334" height="35.45454545454545" as="geometry" />
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-55" value="地点、经纬度搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="K7p-2cNAyb-a2kixNtFu-7" vertex="1">
+          <mxGeometry x="194" y="0.004870129870255369" width="134" height="35.45" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-57" value="基础数据切换模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-67" vertex="1">
-          <mxGeometry x="455" y="7" width="106" height="35.45" as="geometry" />
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-56" value="数据渲染模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="K7p-2cNAyb-a2kixNtFu-7" vertex="1">
+          <mxGeometry x="339" width="94.41333333333334" height="35.45454545454545" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="158" y="633" width="570" height="60" as="geometry" />
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-57" value="基础数据切换模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="K7p-2cNAyb-a2kixNtFu-7" vertex="1">
+          <mxGeometry x="444" y="0.004870129870255369" width="106" height="35.45" as="geometry" />
         </mxCell>
-        <mxCell id="a1iLULeqpFFVg6pSqvtH-69" value="环境数据可视化系统基础设施层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="354.0037961335677" y="674.9992676973148" width="178" height="18" as="geometry" />
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="205" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K7p-2cNAyb-a2kixNtFu-1" value="计算机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="640" width="122" height="32" as="geometry" />
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="K7p-2cNAyb-a2kixNtFu-6">
+          <mxGeometry width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K7p-2cNAyb-a2kixNtFu-2" value="网络设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484" y="640" width="122" height="32" as="geometry" />
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-4" value="&lt;b&gt;环境数据可视化系统表示层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="K7p-2cNAyb-a2kixNtFu-6">
+          <mxGeometry x="207.25379613356768" y="41.99926769731485" width="154" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-5" value="Web端系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K7p-2cNAyb-a2kixNtFu-6">
+          <mxGeometry x="224" y="9" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="486" width="570" height="86.11656698643344" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-14" value="" style="group" parent="K7p-2cNAyb-a2kixNtFu-12" vertex="1" connectable="0">
+          <mxGeometry width="570" height="86.11656698643348" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-40" value="" style="group" parent="a1iLULeqpFFVg6pSqvtH-14" vertex="1" connectable="0">
+          <mxGeometry width="570" height="86.11656698643348" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1iLULeqpFFVg6pSqvtH-40" vertex="1">
+          <mxGeometry width="570" height="84.55955725660402" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-39" value="&lt;b&gt;环境数据可视化系统数据层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="a1iLULeqpFFVg6pSqvtH-40" vertex="1">
+          <mxGeometry x="207.3637961335677" y="68.11656698643348" width="154" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-13" value="" style="group" parent="K7p-2cNAyb-a2kixNtFu-12" vertex="1" connectable="0">
+          <mxGeometry x="19.5" y="6.5" width="529.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-7" value="&lt;br&gt;反演风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
+          <mxGeometry width="87.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-8" value="&lt;br&gt;模式风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
+          <mxGeometry x="108.5" width="89" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-9" value="&lt;br&gt;再分析风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
+          <mxGeometry x="211.5" width="100" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-11" value="&lt;br&gt;融合风场数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
+          <mxGeometry x="320.5" width="100" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-12" value="&lt;br&gt;浮标数据库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="a1iLULeqpFFVg6pSqvtH-13" vertex="1">
+          <mxGeometry x="429.5" width="100" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="600" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="K7p-2cNAyb-a2kixNtFu-13" vertex="1">
+          <mxGeometry width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1iLULeqpFFVg6pSqvtH-69" value="&lt;b&gt;环境数据可视化系统基础设施层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="K7p-2cNAyb-a2kixNtFu-13" vertex="1">
+          <mxGeometry x="196.00379613356768" y="41.99926769731485" width="178" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-1" value="计算机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K7p-2cNAyb-a2kixNtFu-13">
+          <mxGeometry x="129" y="7" width="122" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="K7p-2cNAyb-a2kixNtFu-2" value="网络设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K7p-2cNAyb-a2kixNtFu-13">
+          <mxGeometry x="326" y="7" width="122" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
